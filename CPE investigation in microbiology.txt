@@ -1,0 +1,19 @@
+Enterobacteriaceae species
+The enterobacteriaceae (Citrobacter, Enterobacter, Escherichia, Hafnia, Klebsiella, Morganella, Proteus, Serratia)
+Colonial Morphology: Can be lactose fermenters (pink colonies -MacConkey) or non lactose fermenters (Colourless colonies – MacConkey). 
+Generally Lactose Fermenters - Citrobacter, Enterobacter, Klebsiella, Serratia
+Generally Non Lactose Fermenters - Hafnia, Morganella, Proteus sp.
+Escherichia coli can be appear as either a lactose fermenter or a non lactose fermenter.
+Growth Conditions: Grows in an aerobic and facultative anaerobic environment
+Gram Stain: Gram negative rods
+UTI Chromogenic agar
+E.coli typically appear as pink colonies
+Klebsiella, Enterobacter, Citrobacter and Serratia species appear as blue colonies
+Proteus species appear as colourless/brownish colonies
+UCRT – Carbohydrate Tests
+In particular, Indole is used in the identification of P.mirabilis which is indole Negative. Other Proteus species are indole positive.
+Vitek GN Identification
+Susceptibility Testing is performed on all clinically significant Enterobacteriaceae.  Each is examined for antibiotic resistance. 
+for antibiotic resistance. 
+
+* Term MDRO is multidrug resistance organism
