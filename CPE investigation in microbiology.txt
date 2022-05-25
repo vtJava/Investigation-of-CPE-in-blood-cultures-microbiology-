@@ -14,6 +14,6 @@ UCRT – Carbohydrate Tests
 In particular, Indole is used in the identification of P.mirabilis which is indole Negative. Other Proteus species are indole positive.
 Vitek GN Identification
 Susceptibility Testing is performed on all clinically significant Enterobacteriaceae.  Each is examined for antibiotic resistance. 
-for antibiotic resistance. 
+
 
 * Term MDRO is multidrug resistance organism
