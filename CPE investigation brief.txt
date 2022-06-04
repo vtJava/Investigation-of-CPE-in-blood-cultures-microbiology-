@@ -1,0 +1,3 @@
+* Sensitivities using antibiotics. 
+* GeneXpert for genetic confirmation. 
+* Meropenem disc to exclude ESBL and ampC microbe pathogens. 
