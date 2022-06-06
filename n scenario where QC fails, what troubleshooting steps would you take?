@@ -1,0 +1,13 @@
+Q. In scenario where QC fails, what troubleshooting steps would you take? 
+quality controls are necessary to experiments, it is imperative that both
+the positive and negative control is successful. Depending on 
+which one fails, I will troubleshoot accordingly. For e.g. , if the 
++ve control fails, the first thing I would look for is whether 
+or not I added the sample.
+
+Since human error is a common reason for failure, if there is an internal control 
+for all samples including controls, then I would ensure that is detectable. 
+Other positives on the run eliminate reagent and machine errors of any sort. 
+
+Ref: https://www.youtube.com/watch?v=u3NR-XFhKKE
+https://www.linkedin.com/feed/update/urn:li:activity:6938511137277698048/
